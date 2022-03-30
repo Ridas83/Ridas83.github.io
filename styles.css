@@ -1,11 +1,67 @@
+.nav-link {
+    color: red;
+}
+.nav {
+    
+    border-left: solid red;
+    border-right: solid red;
+    border-bottom: solid red;
+    background-color: gainsboro;
+    margin-bottom: 50px;
+}
+.nav-link {
+    color: blue;
+}
 
-  
-  /* Style the header */
-  header {
-    background-color:#96ceb4;
-    text-align: left;
-    font-size: 20px;
-    color: white;
-    }
+.nav-item>a:hover {
+    color: red;
+}
+.logo img {
+	height: 70px;
+}
+header {
+    background-color: gainsboro;
+    border-left: solid red;
+    border-right: solid red;
+    border-bottom: solid red;
+}
+.col {
+    margin: 10px;
+}
+#header-text {
+    font-family: 'Shadows Into Light Two', cursive;
+    margin-left: 10px;
+}
+.center {
+    margin-left: 80px;
+}
+#carouselExampleDark {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;  
+    margin: 20px;
+}
+footer {
+  text-align: center;
+  padding: 3px;
+  background-color:gainsboro;
+  color: white;
+  height: 50px;
+  color: black;
+  border-left: solid red;
+  border-right: solid red;
+  border-top: solid red;
+  margin-top: 50px;
+}
+.contact-image {
+    margin-top: 85px;
+}
   
   
