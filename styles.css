@@ -111,6 +111,7 @@ footer {
 #bitcoin {
     width: 20%;
     float: left;
+    margin-bottom: 10px;
 }
 .gallery {
     margin: 15px;
